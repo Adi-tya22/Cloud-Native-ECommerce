@@ -31,7 +31,7 @@ Kubernetes Workloads
     ↓
 Prometheus + Grafana
 
-
+```
 
 ## Tech Stack
 
@@ -44,4 +44,4 @@ Prometheus + Grafana
 | CI/CD | GitHub Actions |
 | GitOps | ArgoCD + Kustomize |
 | Monitoring | Prometheus + Grafana |
-| Log Forwarding | AWS Fluent Bit → CloudWatch |
+
